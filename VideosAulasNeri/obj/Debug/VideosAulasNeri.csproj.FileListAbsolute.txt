@@ -32,3 +32,39 @@ c:\users\micro\documents\visual studio 2017\Projects\VideosAulasNeri\VideosAulas
 c:\users\micro\documents\visual studio 2017\Projects\VideosAulasNeri\VideosAulasNeri\obj\Debug\VideosAulasNeri.csprojResolveAssemblyReference.cache
 c:\users\micro\documents\visual studio 2017\Projects\VideosAulasNeri\VideosAulasNeri\obj\Debug\VideosAulasNeri.dll
 c:\users\micro\documents\visual studio 2017\Projects\VideosAulasNeri\VideosAulasNeri\obj\Debug\VideosAulasNeri.pdb
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\csc.exe
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\csc.exe.config
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\csc.rsp
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\csi.exe
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\csi.rsp
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\System.AppContext.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\vbc.exe
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\vbc.exe.config
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\vbc.rsp
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\VBCSCompiler.exe
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\VideosAulasNeri.dll.config
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\VideosAulasNeri.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\VideosAulasNeri.pdb
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\obj\Debug\VideosAulasNeri.csprojAssemblyReference.cache
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\obj\Debug\VideosAulasNeri.csproj.CoreCompileInputs.cache
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\obj\Debug\VideosAulasNeri.csproj.CopyComplete
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\obj\Debug\VideosAulasNeri.dll
+C:\Users\micro\source\repos\VideosAulasNeri\VideosAulasNeri\obj\Debug\VideosAulasNeri.pdb

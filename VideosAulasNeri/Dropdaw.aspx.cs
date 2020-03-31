@@ -47,7 +47,7 @@ namespace VideosAulasNeri
             familiares.Add(new ListItem() { Value = "3", Text = "Tia" });
             familiares.Add(new ListItem() { Value = "4", Text = "Primo" });
 
-            foreach(var familia in familiares)
+            foreach(ListItem familia in familiares) //(var familia in familiares)
             {
                 DropDownList2Familia.Items.Add(new ListItem() { Value = familia.Value, Text = familia.Text });
             }
